@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+# Sample Outputs 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![fitness_ui assets](assets/homepage.jpg)
+![fitness_ui assets](images/homepage2.jpg)
+![fitness_ui assets](images/training.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Connect with me :
+
+ - [Linkedin](https://www.linkedin.com/in/pankaj-parihar-63946a20b/)
+ - [Instagram](https://www.instagram.com/__pankaj7__/)
